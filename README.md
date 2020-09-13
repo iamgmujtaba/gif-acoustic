@@ -8,11 +8,10 @@ Officially, Jetson devices do not support installation. MMAPI or GStreamer can b
 Example of GIFs generated using the proposed method
 
 ### YouTube
-[[ https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_YouTube.webp | height = 200px ]]
+![Maroon 5 Sugar](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_YouTube.gif) ![Subeme](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Subeme_YouTube.gif) ![Happier](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Happier_YouTubee.gif)
 
 ### Baseline
-![Maroon 5 Sugar](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_baseline.gif)  ![Maroon 5 Sugar](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_baseline.gif)  ![Maroon 5 Sugar](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_baseline.gif)    
-
+![Maroon 5 Sugar](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_baseline.gif) ![Subeme](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Subeme_baseline.gif) ![Happier](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Happier_baseline.gif)
 
 ### Proposed
-![Maroon 5 Sugar](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_proposed.gif)  ![Maroon 5 Sugar](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_baseline.gif)  ![Maroon 5 Sugar](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_baseline.gif)  
+![Maroon 5 Sugar](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_proposed.gif) ![Subeme](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Subeme_proposed.gif) ![Happier](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Happier_proposed.gif)
