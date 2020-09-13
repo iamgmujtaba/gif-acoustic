@@ -8,7 +8,7 @@ Officially, Jetson devices do not support installation. MMAPI or GStreamer can b
 Example of GIFs generated using the proposed method
 
 ### YouTube
-![Maroon 5 Sugar]<img src="https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_YouTube.gif" width="300" height="200">
+<img  alt="Maroon 5 Sugar" src="https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_YouTube.gif" width="300" height="200">
 
 ![Maroon 5 Sugar](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_YouTube.gif) ![Subeme](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Subeme_YouTube.gif) ![Happier](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Happier_YouTube.gif)
 
