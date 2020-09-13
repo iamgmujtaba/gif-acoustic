@@ -10,12 +10,8 @@ Example of GIFs generated using the proposed method
 ### YouTube
 <img  alt="Maroon 5 Sugar" src="https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_YouTube.gif" width="260" height="170">  <img  alt="Subeme" src="https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Subeme_YouTube.gif" width="260" height="170">  <img  alt="Happier" src="https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Happier_YouTube.gif" width="260" height="170">
 
-
-
-![Maroon 5 Sugar](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_YouTube.gif) ![Subeme](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Subeme_YouTube.gif) ![Happier](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Happier_YouTube.gif)
-
 ### Baseline
-![Maroon 5 Sugar](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_baseline.gif) ![Subeme](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Subeme_baseline.gif) ![Happier](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Happier_baseline.gif)
+<img  alt="Maroon 5 Sugar" src="https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_baseline.gif" width="260" height="170">  <img  alt="Subeme" src="https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Subeme_baseline.gif" width="260" height="170">  <img  alt="Happier" src="https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Happier_baseline.gif" width="260" height="170">
 
 ### Proposed
-![Maroon 5 Sugar](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_proposed.gif) ![Subeme](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Subeme_proposed.gif) ![Happier](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Happier_proposed.gif)
+<img  alt="Maroon 5 Sugar" src="https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_proposed.gif" width="260" height="170">  <img  alt="Subeme" src="https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Subeme_proposed.gif" width="260" height="170">  <img  alt="Happier" src="https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Happier_proposed.gif" width="260" height="170">
