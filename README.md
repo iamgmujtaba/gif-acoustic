@@ -9,6 +9,6 @@ Example of GIFs generated using the proposed method
 
 | YouTube       | Baseline      | Proposed |
 | ------------- |:-------------:| --------:|
-| [[ https://github.com/{iamgmujtaba}/{gif-acoustic}/blob/master/experiments/Maroon_YouTube.webp | height = 200px ]]   | xxx | xxx    |
+| [[ https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_YouTube.webp | height = 200px ]]   | xxx | xxx    |
 | col 2 is      | centered      |   $12    |
 | zebra stripes | are neat      |    $1    |
