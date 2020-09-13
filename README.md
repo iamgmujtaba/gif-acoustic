@@ -7,8 +7,15 @@ Officially, Jetson devices do not support installation. MMAPI or GStreamer can b
 # Experiments
 Example of GIFs generated using the proposed method
 
-| YouTube       | Baseline      | Proposed |
-| ------------- |:-------------:| --------:|
-| [[ https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_YouTube.webp | height = 200px ]]   | xxx | xxx    |
-| col 2 is      | centered      |   $12    |
-| zebra stripes | are neat      |    $1    |
+### YouTube
+[[ https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_YouTube.webp | height = 200px ]]
+
+### Baseline
+[[ https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_baseline.gif | height = 200px ]]
+[[ https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_baseline.gif | height = 200px ]]
+[[ https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_baseline.gif | height = 200px ]]
+
+### Proposed
+[[ https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_proposed.gif | height = 200px ]]
+[[ https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_proposed.gif | height = 200px ]]
+[[ https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_proposed.gif | height = 200px ]]
