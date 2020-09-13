@@ -11,8 +11,8 @@ Example of GIFs generated using the proposed method
 [[ https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_YouTube.webp | height = 200px ]]
 
 ### Baseline
-![Maroon 5 Sugar](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_baseline.gif)  ![Maroon 5 Sugar](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_baseline.gif)  
+![Maroon 5 Sugar](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_baseline.gif)  ![Maroon 5 Sugar](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_baseline.gif)  ![Maroon 5 Sugar](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_baseline.gif)    
 
 
 ### Proposed
-![Maroon 5 Sugar](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_proposed.gif)  ![Maroon 5 Sugar](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_baseline.gif)  
+![Maroon 5 Sugar](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_proposed.gif)  ![Maroon 5 Sugar](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_baseline.gif)  ![Maroon 5 Sugar](https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_baseline.gif)  
