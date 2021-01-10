@@ -2,7 +2,7 @@ We are preparing our manuscript for the publication. The code will be available 
 
 # Jetson Configuration
 Officially, Jetson devices do not support installation. MMAPI or GStreamer can be used. Please use the following guide to install FFmpeg.
-[FFmpeg installation on Jetson TX2]: https://iamgmujtaba.github.io/ffmpeg-installation-jetson-tx2/
+[FFmpeg installation on Jetson TX2]: https://ghulammujtabakorai.medium.com/ffmpegs-installation-on-the-jetson-tx2-66b5a3f21d02
 
 # Experiments
 Note: Github does not support animated WebP formats. We have to convert WebP images to GIF to use in Github.
