@@ -1,6 +1,6 @@
 <b> Client-driven animated GIF generation framework using an acoustic feature </b>
 
-This repository contains the original implementation of the paper **[Client-driven animated GIF generation framework using an acoustic feature] (https://doi.org/10.1007/s11042-020-10236-6)**, published at MTAP 2021.
+This repository contains the original implementation of the paper **[Client-driven animated GIF generation framework using an acoustic feature](https://doi.org/10.1007/s11042-020-10236-6)**, published at MTAP 2021.
 
 We present a novel methodology to generate animated GIFs images using the computational resources of a client device. The method analyzes an acoustic feature from the climax section of an audio file to estimate the timestamp corresponding to the maximum pitch. Further, it processes a small video segment to generate the GIF instead of processing the entire video. This makes the proposed method computationally efficient, unlike baseline approaches that use entire videos to create GIFs. 
 
@@ -59,7 +59,7 @@ Example of GIFs generated using the proposed method
 
 ## Jetson Configuration
 Officially, Jetson devices do not support installation. MMAPI or GStreamer can be used. Please use the following guide to install FFmpeg.
-[FFmpeg installation on Jetson TX2]: https://ghulammujtabakorai.medium.com/ffmpegs-installation-on-the-jetson-tx2-66b5a3f21d02
+[FFmpeg installation on Jetson TX2](https://ghulammujtabakorai.medium.com/ffmpegs-installation-on-the-jetson-tx2-66b5a3f21d02)
 
 
 ## Citation
