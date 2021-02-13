@@ -1,0 +1,15 @@
+tensorflow-gpu==1.14.0
+Keras==2.2.4
+numpy
+librosa
+numba==0.48.0
+lightgbm
+pandas
+matplotlib
+pillow
+requests
+pydub
+crepe
+docopt
+moviepy
+click
