@@ -22,7 +22,7 @@ cd gif-acoustic
 
 
 ### GTZAN dataset train
-- Download the GTZAN dataset here](http://opihi.cs.uvic.ca/sound/genres.tar.gz)
+- Download the GTZAN dataset [here](http://opihi.cs.uvic.ca/sound/genres.tar.gz)
 - Extract the downloaded file in the data folder and the structure should look like this:
 
 ```bash
