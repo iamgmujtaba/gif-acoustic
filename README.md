@@ -71,7 +71,7 @@ If you use this code for your research, please cite our paper.
   journal={Multimedia Tools and Applications},
   year={2021},
   publisher={Springer}}
-
+'''
 
 ## License
 Copyright (c) 2021, Ghulam Mujtaba. All rights reserved. This code is provided for academic, non-commercial use only. Redistribution and use in source and binary forms, with or without modification, are permitted for academic non-commercial use provided that the following conditions are met:
