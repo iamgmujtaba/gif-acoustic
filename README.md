@@ -42,12 +42,7 @@ python train.py
 ```
 
 
-
-# Jetson Configuration
-Officially, Jetson devices do not support installation. MMAPI or GStreamer can be used. Please use the following guide to install FFmpeg.
-[FFmpeg installation on Jetson TX2]: https://ghulammujtabakorai.medium.com/ffmpegs-installation-on-the-jetson-tx2-66b5a3f21d02
-
-# Experiments
+## Experiments
 Note: Github does not support animated WebP formats. We have to convert WebP images to GIF to use in Github.
 
 Example of GIFs generated using the proposed method
@@ -60,3 +55,19 @@ Example of GIFs generated using the proposed method
 
 ### Proposed
 <img  alt="Maroon 5 Sugar" src="https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Maroon_proposed.gif" width="260" height="170">  <img  alt="Subeme" src="https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Subeme_proposed.gif" width="260" height="170">  <img  alt="Happier" src="https://github.com/iamgmujtaba/gif-acoustic/blob/master/experiments/Happier_proposed.gif" width="260" height="170">
+
+
+## Jetson Configuration
+Officially, Jetson devices do not support installation. MMAPI or GStreamer can be used. Please use the following guide to install FFmpeg.
+[FFmpeg installation on Jetson TX2]: https://ghulammujtabakorai.medium.com/ffmpegs-installation-on-the-jetson-tx2-66b5a3f21d02
+
+
+## Citation
+If you use this code for your research, please cite our paper.
+```
+@article{mujtaba2021,
+  title={Client-driven animated GIF generation framework using an acoustic feature},
+  author={Mujtaba, Ghulam and Lee, Sangsoon and Kim, Jaehyoun and Ryu, Eun-Seok},
+  journal={Multimedia Tools and Applications},
+year={2021},
+  publisher={Springer}}
