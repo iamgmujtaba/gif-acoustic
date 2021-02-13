@@ -69,5 +69,5 @@ If you use this code for your research, please cite our paper.
   title={Client-driven animated GIF generation framework using an acoustic feature},
   author={Mujtaba, Ghulam and Lee, Sangsoon and Kim, Jaehyoun and Ryu, Eun-Seok},
   journal={Multimedia Tools and Applications},
-year={2021},
+  year={2021},
   publisher={Springer}}
