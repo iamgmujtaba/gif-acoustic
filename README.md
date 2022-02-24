@@ -42,7 +42,11 @@ python train.py
 ```
 
 ## Test
-To run the code, you will need to configure HLS Server.  Follow the [hls-server](https://github.com/iamgmujtaba/hls-server) guide for configuration.
+To run the code, you will need to configure HLS Server.  Follow the [hls-server](https://github.com/iamgmujtaba/hls-server) guide for configuration. To generate segments and extract audio files from multiple videos, run the following script from [HLS-Server](https://github.com/iamgmujtaba/hls-server)
+```shell
+python .\main.py -i .\input\ -o .\output\
+```
+
 - Run python HCR_proposed.py code to test the computation processing time using the proposed method on HCR device.
 ```bash
 python HCR_proposed.py
