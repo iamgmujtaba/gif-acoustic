@@ -35,12 +35,22 @@ cd gif-acoustic
       .
       ├── rock
 ```
-
+## Train
 - Run python train code to train the GTZAN dataset
 ```bash
 python train.py
 ```
 
+## Test
+To run the code, you will need to configure HLS Server.  Follow the [hls-server](https://github.com/iamgmujtaba/hls-server) guide for configuration.
+- Run python HCR_proposed.py code to test the computation processing time using the proposed method on HCR device.
+```bash
+python HCR_proposed.py
+```
+- Run python HCR_baseline.py code to test the computation processing time using the baseline method on HCR device.
+```bash
+python HCR_baseline.py
+```
 
 ## Experiments
 Note: Github does not support animated WebP formats. We have to convert WebP images to GIF to use in Github.
